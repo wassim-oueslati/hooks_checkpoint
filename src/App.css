@@ -1,0 +1,22 @@
+body {
+    background :black;
+}
+
+.listMovies{
+    display: flex;
+    justify-content: center;
+}
+
+.form-control{
+    width: 50%;
+}
+
+.filter_form{
+    display: flex;
+    justify-content: space-around;
+    margin: 15px 0 30px 0;
+}
+
+.but{
+    text-align: center;
+}
